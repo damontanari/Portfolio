@@ -32,7 +32,7 @@ main, .content {
 /* Estilizando e deixando redes-sociais lado a lado */
 .redes-sociais ul li {      
     margin-left: 25px;
-    display: inline-block;
+    display: fixed;
     float: left;
     list-style: none;
 }
